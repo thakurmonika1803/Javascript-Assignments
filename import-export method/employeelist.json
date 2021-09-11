@@ -1,0 +1,44 @@
+{
+    "employeeDetails": [
+        {
+            "id": 101,
+            "firstName": "monika",
+            "email": "itsmemonika07@gmail.com",
+            "age": 21,
+            "address": "Sudama Nagar indore",
+            "contact": 9898985657,
+            "areYouMarried": "false",
+            "salary": 512000
+        },
+        {
+            "id": 102,
+            "firstName": "aman",
+            "email": "pratikt22@gmail.com",
+            "age": 55,
+            "address": "palasia, indore",
+            "contact": 9632587412,
+            "areYouMarried": "true",
+            "salary": 513000
+        },
+        {
+            "id": 103,
+            "firstName": "amisha",
+            "email": "john01@gmail.com",
+            "age": 35,
+            "address": "abc, indore",
+            "contact": 9898985657,
+            "areYouMarried": "true",
+            "salary": 514000
+        },
+        {
+            "id": 104,
+            "firstName": "trapti",
+            "email": "bhagattrapti@gmail.com",
+            "age": 60,
+            "address": "Nyay Nagar, indore",
+            "contact": 7845123698,
+            "areYouMarried": "true",
+            "salary": 515000
+        }
+    ]
+}
